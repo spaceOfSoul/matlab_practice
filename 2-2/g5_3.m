@@ -12,6 +12,7 @@ c=rand(1,3) ;
 set( hfig, 'color', c); 
 f_pos=get( hfig, 'position') ;
 pos = get( source, 'position') ;
-pos = pos=[0 0 100 30];
+pos = 
+pos=[0 0 100 30];
 end
 set( , , ) ; % 버튼의 ‘position’ 속성값을 변수 pos 값으로 변경end
